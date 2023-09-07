@@ -6,6 +6,8 @@
 </a>
 </div>
 
+- [YouTube](https://www.youtube.com/live/DqzB4eIy5EU?si=lTdfmUKEQEJF7L6N)
+
 - Simple book inventory application has been developed using Spring Boot, and in addition to the previous project, the entity classes have been written in Kotlin.
 
 <br>
